@@ -1,0 +1,6 @@
+{
+  "name": "Dancheong UX Portfolio",
+  "description": "An elegant, minimalist user research portfolio inspired by Korean Dancheong colors, featuring password-protected case studies, editable profile builder, and color palette presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
